@@ -12,7 +12,7 @@ This project is a random level generator designed to create dynamic and diverse 
 - Configuration of spawn probabilities for each room type
 - Easy integration into existing game projects
 
-![alt text](https://github.com/rekabyte/Random-Level-Generation/blob/main/capture1.png)
+![](https://github.com/rekabyte/Random-Level-Generation/blob/main/capture1.png)
 
 ## Usage
 
