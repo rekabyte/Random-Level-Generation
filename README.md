@@ -16,7 +16,7 @@ This project is a random level generator designed to create dynamic and diverse 
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/random-level-generator.git`
+1. Clone the repository: `git clone https://github.com/rekabyte/Random-Level-Generation`
 2. Integrate the level generator into your game project.
 3. Configure spawn probabilities according to your needs.
 4. Call the level generation function in your code.
